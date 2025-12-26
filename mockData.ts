@@ -6,7 +6,7 @@ export const CATEGORIES: Category[] = [
   { id: 'cat2', name: { en: 'Arowana', es: 'Arowana', ar: 'أروانا' }, image: 'https://robbreport.com/wp-content/uploads/2019/01/shutterstock_755489131.jpg', fishCount: 4 },
   { id: 'cat3', name: { en: 'Discus', es: 'Discus', ar: 'ديسكاس' }, image: 'https://images3.ratemyfishtank.com/articlephoto/177/Tips-for-Breeding-Discus-Fish-30lfyeb711ycg48ks8c0wgs88-910.jpg', fishCount: 6 },
   { id: 'cat4', name: { en: 'Betta', es: 'Betta', ar: 'بيتا' }, image: 'https://cdn.shopify.com/s/files/1/0323/1226/2794/files/Betta_fish.jpg?v=1740128915', fishCount: 8 },
-  { id: 'cat5', name: { en: 'Clownfish', es: 'Pez Payaso', ar: 'سمكة المهرج' }, image: 'https://picsum.photos/seed/clown/400/400', fishCount: 3 },
+  { id: 'cat5', name: { en: 'Oscar', es: 'Óscar', ar: 'أوسكار' }, image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvUKnT03eQj5zT8BpLWMPMjJqQ2Fv1kw2Skg&s', fishCount: 3 },
   { id: 'cat6', name: { en: 'Goldfish', es: 'Pez Dorado', ar: 'سمك ذهبي' }, image: 'https://media.masterfisch.com/140109-thickbox_default/lionhead-goldfish-red-jelly.jpg', fishCount: 5 },
   { id: 'cat7', name: { en: 'Guppy', es: 'Guppy', ar: 'جوبي' }, image: 'https://cdn.britannica.com/02/117202-050-62267C8B/Guppy.jpg', fishCount: 4 },
   { id: 'cat8', name: { en: 'Angelfish', es: 'Pez Ángel', ar: 'سمكة ملائكية' }, image: 'https://www.swelluk.com/media/catalog/product/b/l/blue_angelfish.png?store=default&image-type=image', fishCount: 5 },
