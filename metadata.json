@@ -1,0 +1,9 @@
+
+{
+  "name": "Discus.com - Artisan Fish Breeders",
+  "description": "Premium discus and tropical fish e-commerce platform. King of Aquarium since 1996. Features artisan specimens, global shipping, and AI-powered care advice.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
